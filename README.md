@@ -12,7 +12,7 @@ Praticar estruturas de dados fundamentais e desenvolver habilidades de resoluç�
 
 ## Ferramenta de IA Utilizada
 
-- Nome: ChatGPT  
+- Nome: Gemini
 - Acesso: Web  
 - Uso na atividade:
   - Geração de rascunhos de código
@@ -28,9 +28,6 @@ Praticar estruturas de dados fundamentais e desenvolver habilidades de resoluç�
 Os problemas foram retirados de:
 
 - LeetCode
-- HackerRank
-- CodeWars
-- Beecrowd (URI)
 
 ---
 
