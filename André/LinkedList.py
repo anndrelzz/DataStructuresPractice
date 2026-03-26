@@ -1,3 +1,14 @@
+# ----------------------------------------
+# 1. O MOLDE DA LISTA ENCADEADA
+# ----------------------------------------
+# Essa classe ensina o VS Code o que é um "nó".
+class ListNode:
+    def __init__(self, val=0, next=None):
+        # 'val' guarda o número de fato.
+        self.val = val
+        # 'next' aponta para o próximo nó na memória.
+        self.next = next
+
 class Solution:
     def deleteDuplicates(self, head):
         
